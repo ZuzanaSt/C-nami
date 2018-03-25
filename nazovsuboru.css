@@ -1,0 +1,55 @@
+
+.zanr  { font-size: 70px;
+         text-align: center;
+         color: green;
+         padding:5px;}
+    h2  {font-size: 24px;
+	     font-weight: normal;
+	     margin-top: 40px;}     
+    h1  {font-size: 30px;
+	     font-weight: normal} 
+    .content .zdroj {text-transform: uppercase;}
+    .content .autor {text-transform: uppercase;}
+    body {
+	/* Margin bottom by footer height */
+	font-family: "Segoe UI", "Roboto", "Helvetica Neue", -apple-system, BlinkMacSystemFont, sans-serif;
+	margin-bottom: 140px;
+}
+    p {text-align: justify;
+	   line-height: 150%;
+	   padding: 5px;}
+    blockquote {
+	font-size: 14px;
+	font-style: normal;
+}
+    header {font-weight: bold}
+    .zdroj 
+    a {color:gray;}	        	            	    			
+    footer {float: right;
+            font-weight: bolder;}	
+
+
+    #footer {
+	background: #eee;
+	padding: 5px 0;
+	margin-top: 30px;
+}
+
+#footer a {
+	/*color: #fff;*/
+}
+
+#footer ul {
+	margin-top: 32px;
+	line-height: 180%;
+	text-align: right;
+}
+
+#footer ul li {
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+#footer ul li strong {
+	font-weight: normal;
+}         
